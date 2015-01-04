@@ -7,6 +7,7 @@ module.exports = (function() {
             author: "fis-components"
         },
         repos: 'git@github.com:jquery/jquery.git',
+        useGitClone: true,
         version: '1.9.1',
         name: 'jquery',
         main: 'jquery.js',
@@ -40,6 +41,7 @@ module.exports = (function() {
             author: "fis-components"
         },
         repos: 'git@github.com:jquery/jquery.git',
+        useGitClone: true,
         version: '2.1.0',
         build: 'npm run build',
         main: 'jquery.js',

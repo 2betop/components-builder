@@ -6,7 +6,7 @@ module.exports = (function() {
         github: {
             author: "fis-components"
         },
-        repos: 'https://github.com/jquery/jquery.git',
+        repos: 'git@github.com:jquery/jquery.git',
         version: '1.9.1',
         name: 'jquery',
         main: 'jquery.js',
@@ -34,12 +34,12 @@ module.exports = (function() {
                 release: false
             }
         ]
-    }/*, {
+    }, {
         protocol: "github",
         github: {
             author: "fis-components"
         },
-        repos: 'https://github.com/jquery/jquery.git',
+        repos: 'git@github.com:jquery/jquery.git',
         version: '2.1.0',
         build: 'npm run build',
         main: 'jquery.js',
@@ -62,5 +62,5 @@ module.exports = (function() {
                 release: false
             }
         ]
-    }*/]
+    }]
 })();

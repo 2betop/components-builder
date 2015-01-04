@@ -7,21 +7,14 @@ module.exports = (function() {
             author: "fis-components"
         },
         repos: 'git@github.com:jquery/jquery.git',
-        useGitClone: true,
         version: '1.9.1',
         name: 'jquery',
         main: 'jquery.js',
-        // build: 'npm install && npm install grunt-cli && ./node_modules/.bin/grunt',
         mapping: [
             {
                 reg: /\.min\.(js|css)$/,
                 release: false
             },
-            // {
-            //     reg: /^\/dist\/(.*\.js)/,
-            //     release: '$1'
-            // },
-
             {
                 reg: /^\/jquery\.js/,
                 release: '$&'
@@ -41,8 +34,8 @@ module.exports = (function() {
             author: "fis-components"
         },
         repos: 'git@github.com:jquery/jquery.git',
-        useGitClone: true,
-        version: '2.1.0',
+        // useGitClone: true,
+        version: '2.1.3',
         build: 'npm run build',
         main: 'jquery.js',
         name: 'jquery',

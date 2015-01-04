@@ -1,0 +1,34 @@
+{
+  "name": "components-builder",
+  "version": "1.0.0",
+  "description": "Build components for fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2betop/components-builder.git"
+  },
+  "author": "2betop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2betop/components-builder/issues"
+  },
+  "homepage": "https://github.com/2betop/components-builder",
+  "dependencies": {
+    "bluebird": "^2.5.1",
+    "escodegen": "^1.4.3",
+    "escope": "^2.0.1",
+    "esformatter": "^0.4.3",
+    "esprima": "^1.2.2",
+    "estraverse": "^1.9.0",
+    "fis-scaffold-kernel": "0.0.19",
+    "gitlab": "^1.1.0",
+    "glob": "^4.3.2",
+    "lodash": "^2.4.1",
+    "progress": "^1.1.8",
+    "rocambole": "^0.3.6",
+    "tmp": "0.0.24"
+  }
+}

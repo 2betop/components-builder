@@ -29,6 +29,7 @@
     "lodash": "^2.4.1",
     "progress": "^1.1.8",
     "prompt": "^0.2.14",
+    "request": "^2.51.0",
     "rocambole": "^0.3.6",
     "tmp": "0.0.24"
   }

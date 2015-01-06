@@ -29,8 +29,8 @@ module.exports = (function() {
             }
         ]
     }, {
-        protocol: "github",
-        github: {
+        protocol: "gitlab",
+        gitlab: {
             author: "fis-components"
         },
         repos: 'git@github.com:jquery/jquery.git',

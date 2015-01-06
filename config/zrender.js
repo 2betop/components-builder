@@ -2,10 +2,6 @@
 
 module.exports = (function() {
     return [{
-        protocol: "gitlab",
-        gitlab: {
-            author: "fis-components"
-        },
         repos: 'https://github.com/ecomfe/zrender.git',
         version: '2.0.6',
         name: 'zrender',

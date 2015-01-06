@@ -2,10 +2,6 @@
 
 module.exports = (function() {
     return [{
-        protocol: "gitlab",
-        gitlab: {
-            author: "fis-components"
-        },
         repos: 'git@github.com:jquery/jquery.git',
         version: '1.9.1',
         name: 'jquery',
@@ -29,10 +25,6 @@ module.exports = (function() {
             }
         ]
     }, {
-        protocol: "gitlab",
-        gitlab: {
-            author: "fis-components"
-        },
         repos: 'git@github.com:jquery/jquery.git',
         // useGitClone: true,
         version: '2.1.3',

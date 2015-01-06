@@ -2,10 +2,6 @@
 
 module.exports = (function() {
     return [{
-        protocol: "gitlab",
-        gitlab: {
-            author: "fis-components"
-        },
         repos: 'https://github.com/twbs/bootstrap.git',
         version: 'v3.3.1',
         main: 'bootstrap.js',

@@ -2,10 +2,6 @@
 
 module.exports = (function() {
     return [{
-        protocol: "gitlab",
-        gitlab: {
-            author: "fis-components"
-        },
         repos: 'https://github.com/Igosuki/compass-mixins.git',
         version: '1.0.2',
         description: 'A collection of compass\' stylesheet for bower dependencies and libsass',

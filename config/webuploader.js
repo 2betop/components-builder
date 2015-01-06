@@ -2,10 +2,6 @@
 
 module.exports = (function() {
     return [{
-        protocol: "gitlab",
-        gitlab: {
-            author: "fis-components"
-        },
         name: "webuploader",
         main: "webuploader.js",
         repos: 'https://github.com/fex-team/webuploader.git',

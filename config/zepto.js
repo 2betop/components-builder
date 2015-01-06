@@ -2,10 +2,6 @@
 
 module.exports = (function() {
     return [{
-        protocol: "gitlab",
-        gitlab: {
-            author: "fis-components"
-        },
         repos: 'https://github.com/madrobby/zepto.git',
         version: 'v1.1.4',
         description: 'zepto',

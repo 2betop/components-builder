@@ -8,7 +8,7 @@ module.exports = (function() {
         },
         repos: 'https://github.com/vakata/jstree.git',
         version: '3.0.8',
-        name: 'jjstree',
+        name: 'jstree',
         main: 'jstree.js',
         dependencies: [
             "jquery@>=1.9.1"

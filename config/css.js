@@ -2,8 +2,8 @@
 
 module.exports = (function() {
     return [{
-        protocol: "github",
-        github: {
+        protocol: "gitlab",
+        gitlab: {
             author: "fis-components"
         },
         description: "require css component.",

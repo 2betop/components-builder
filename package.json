@@ -24,7 +24,7 @@
     "esprima": "^1.2.2",
     "estraverse": "^1.9.0",
     "fis-scaffold-kernel": "0.0.19",
-    "gitlab": "^1.1.0",
+    "gitlab": "1.1.0",
     "glob": "^4.3.2",
     "lodash": "^2.4.1",
     "progress": "^1.1.8",

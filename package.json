@@ -20,7 +20,6 @@
     "bluebird": "^2.5.1",
     "escodegen": "^1.4.3",
     "escope": "^2.0.1",
-    "esformatter": "^0.4.3",
     "esprima": "^1.2.2",
     "estraverse": "^1.9.0",
     "fis-scaffold-kernel": "0.0.19",

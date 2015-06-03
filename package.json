@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/2betop/components-builder",
   "dependencies": {
-    "bluebird": "^2.5.1",
+    "bluebird": "2.5.1",
     "escodegen": "^1.4.3",
     "escope": "^2.0.1",
+    "esformatter": "^0.7.0",
     "esprima": "^1.2.2",
     "estraverse": "^1.9.0",
     "fis-scaffold-kernel": "0.0.19",
